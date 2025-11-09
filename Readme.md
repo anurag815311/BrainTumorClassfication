@@ -96,9 +96,3 @@ It helps interpret predictions and verify whether the network attends to the tum
 * It should **not** be used for actual medical diagnosis.
 
 ---
-
-## 👤 Author
-
-**Anurag Kumar Singh**
-
-
